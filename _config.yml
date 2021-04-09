@@ -14,12 +14,12 @@ author: Anshika
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-#   About Me: "aboutme"
+ Contact: "newbiesinbioinformatics@gmail.com"
+
 #   Resources:
 #     - Beautiful Jekyll: "https://beautifuljekyll.com"
 #     - Learn markdown: "https://www.markdowntutorial.com/"
-  Contact: "newbiesinbioinformatics@gmail.com"
-
+ 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
