@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Getting started with Git and GitHub for bioinformatics newbies (or any open scientist!)
-subtitle: *By Yo Yehudi*
+subtitle: By Yo Yehudi
 thumbnail-img: assets/img/YO_YEHUDI.jpg
 ---
 
@@ -9,6 +9,7 @@ thumbnail-img: assets/img/YO_YEHUDI.jpg
 >Yo Yehudi is an Open Source Technical Lead in the Data for Science and Health priority area at the Wellcome Trust and also the co-founder of Open Life Science, which is an amazing organization promoting open science. Apart from it, she is an open science evangelist and an incredible mentor who has mentored and educated many learners through training workshops, programs like [Google Summer of Code](https://summerofcode.withgoogle.com/), [Outreachy](https://www.outreachy.org/), [Open Life Science](https://openlifesci.org/), [Hacktoberfest](https://hacktoberfest.digitalocean.com/), and many conferences like [BOSC](https://www.open-bio.org/events/bosc/), [MozFest 2018 Openness space wrangler](https://www.mozillafestival.org/), and many more.
 She was extremely kind to write a blog on getting started with GitHub for newbies. 
 
+<img src="https://newbies-in-bioinformatics.github.io/Newbies-in-bioinformatics/assets/img/YO_YEHUDI.jpg" width="250" height="250">
 
 Learning to use Git can be intimidating at first, but once you've learned to get comfortable with it, you'll wonder how you ever did without it. 
 
