@@ -5,8 +5,6 @@ subtitle:
 thumbnail-img: assets/img/dr_sandeep.jpg
 ---
 
-# Interview with Dr. Sandeep Kumar Dhanda
-
 Dr. Sandeep Kumar Dhanda is a Translational Bioinformatics Research Scientist at the St Jude Children's Research Hospital, U.S.A.
 He has completed his Ph.D. in Bioinformatics. He has been very kindly agreed to share some insights into the field and answer some crucial questions that every newbie has in their minds.
 
