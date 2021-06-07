@@ -66,7 +66,7 @@ You are welcome to contribute even if your topic is not present in the list.
 
 ## Get in touch
 
-1.[GitHub issues](https://github.com/Newbies-in-bioinformatics/Newbies-in-bioinformatics/issues) and [pull requests](https://github.com/Newbies-in-bioinformatics/Newbies-in-bioinformatics/pulls)
+1. [GitHub issues](https://github.com/Newbies-in-bioinformatics/Newbies-in-bioinformatics/issues) and [pull requests](https://github.com/Newbies-in-bioinformatics/Newbies-in-bioinformatics/pulls)
 
 Join a discussion, collaborate one an ongoing task and exchange your thoughts with others.
 
