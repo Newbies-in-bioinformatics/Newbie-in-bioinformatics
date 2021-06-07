@@ -1,6 +1,6 @@
 # Contributing to Newbies in bioinformatcs
 
-Welcome folks!!!
+Welcome folks!!!:sparkles:
 
 We are delighted to have you here!
 
