@@ -10,8 +10,11 @@ We want this space to be inclusive and respectful for all contributors irrespect
 
 
 [Who can contribute?](Who-can-contribute?)
+
 [Suggested topics](Suggested-topics)
+
 [How to contribute?](How-to-contribute?)
+
 [Get in touch](Get-in-touch)
 
 ## Who can contribute?
