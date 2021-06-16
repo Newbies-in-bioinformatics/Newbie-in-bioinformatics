@@ -34,17 +34,18 @@ round-avatar: true
 #title-img: /path/to/image
 
 
-# --- Footer social media links --- #
+ --- Footer social media links --- 
 
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  email: "newbiesinboinformatics@gmail.com"
+  #facebook: deanattali
+  github: https://github.com/Newbies-in-bioinformatics/Newbies-in-bioinformatics
+  #twitter: https://twitter.com/Newbiesinbioinf
+  #patreon: DeanAttali
+  #youtube: c/daattali
+  slack: https://join.slack.com/t/newbiesinbioi-suw3310/shared_invite/zt-ra6dx7tx-497jnBj5a54R27YB_oQK8g
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -72,9 +73,9 @@ rss-description: This website is a virtual proof that I'm awesome
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  #facebook: true
   linkedin: true
-  vk: false
+  #vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
