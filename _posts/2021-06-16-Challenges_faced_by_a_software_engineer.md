@@ -17,16 +17,26 @@ For example, pymol is open source but we don't have a permissive license.
 
 If you have also faced such a problem you can refer to the list below. 
 This is the list of few free and open-source tools available.
-	1. geWorkbench
-	2. BioPerl
-	3. BioPython
-	4. BioJava
-	5. InterMine
-	6. Ugene
-	7. Integrated Genome Viewer
-	8. GROMACS
-	9. Clustal Omega
-	10. BLAST
+
+	1. [geWorkbench](https://genomespace.org/support/guides/tool-guide/sections/geworkbench-GS-capabilities/)
+	
+	2. [BioPerl](https://bioperl.org/)
+	
+	3. [BioPython](https://biopython.org/)
+	
+	4. [BioJava](https://biojava.org/)
+	
+	5. [InterMine](http://intermine.org/)
+	
+	6. [Ugene](http://ugene.net/)
+	
+	7. [Integrated Genome Viewer](https://software.broadinstitute.org/software/igv/)
+	
+	8. [GROMACS](https://www.gromacs.org/)
+	
+	9. [Clustal Omega](https://www.ebi.ac.uk/seqdb/confluence/display/JDSAT/Clustal+Omega+Help+and+Documentation)
+	
+	10. [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
 
 
 ## 2. Lack of knowledge about open source.
