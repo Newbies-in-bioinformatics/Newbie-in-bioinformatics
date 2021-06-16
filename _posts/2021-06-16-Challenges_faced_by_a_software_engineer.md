@@ -11,7 +11,7 @@ I was introduced to bioinformatics during my 6th semester. And now I am consider
 
 The major challenges I faced were: 
 
-##1. Unable to find an open-source alternative to paid software/tools.
+## 1. Unable to find an open-source alternative to paid software/tools.
 
 For example, pymol is open source but we don't have a permissive license. 
 
@@ -29,7 +29,7 @@ This is the list of few free and open-source tools available.
 	10. BLAST
 
 
-##2. Lack of knowledge about open source.
+## 2. Lack of knowledge about open source.
 
 
  You can get started with open-source through these articles.
@@ -39,7 +39,7 @@ An introduction to Open Source - Tutorial (DigitalOcean)
 
 
 
-##3. Unable to find concise information about the working of the tools.
+## 3. Unable to find concise information about the working of the tools.
 
 For example in the case of clustal omega, the information regarding the working is available but it is difficult to understand for a beginner.
 
