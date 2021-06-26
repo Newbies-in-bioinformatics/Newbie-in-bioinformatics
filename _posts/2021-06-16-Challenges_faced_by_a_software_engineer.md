@@ -42,10 +42,13 @@ This is the list of few free and open-source tools available.
 ## 2. Lack of knowledge about open source.
 
 
- You can get started with open-source through these articles.
-How to get started with Open Source
-General Beginner's guide to open-source contribution | Getting Started
-An introduction to Open Source - Tutorial (DigitalOcean) 
+You can get started with open-source through these articles.
+
+1. [How to get started with Open Source](https://www.hackerearth.com/getstarted-opensource/)
+
+2. [General Beginner's guide to open-source contribution | Getting Started](https://workat.tech/general/article/open-source-contribution-guide-xmhf1k601vdj)
+
+3. [An introduction to Open Source - Tutorial (DigitalOcean) ](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source)
 
 
 
@@ -54,9 +57,10 @@ An introduction to Open Source - Tutorial (DigitalOcean)
 For example in the case of clustal omega, the information regarding the working is available but it is difficult to understand for a beginner.
 
 Here are some examples from which you can learn about the functioning of some tools of bioinformatics.
-Introduction to Bioinformatic Tools
-Multiple Sequence Alignment using Clustal Omega and T-Coffee
-SWISS-MODEL: an automated protein homology-modeling server
+
+1. [Introduction to Bioinformatic Tools](https://www.protocols.io/view/introduction-to-bioinformatic-tools-bmfmk3k6.html)
+2. [Multiple Sequence Alignment using Clustal Omega and T-Coffee](https://towardsdatascience.com/multiple-sequence-alignment-using-clustal-omega-and-t-coffee-3cc662b1ea82)
+3. [SWISS-MODEL: an automated protein homology-modeling server](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC168927/pdf/gkg520.pdf)
 
 
 These were some of the challenges which Ankit faced while learning bioinformatics.
