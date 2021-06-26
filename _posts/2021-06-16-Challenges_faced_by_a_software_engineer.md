@@ -18,7 +18,7 @@ For example, pymol is open source but we don't have a permissive license.
 If you have also faced such a problem you can refer to the list below. 
 This is the list of few free and open-source tools available.
 
-	1. [geWorkbench](https://genomespace.org/support/guides/tool-guide/sections/geworkbench-GS-capabilities/)
+	 [geWorkbench](https://genomespace.org/support/guides/tool-guide/sections/geworkbench-GS-capabilities/)
 	
 	2. [BioPerl](https://bioperl.org/)
 	
