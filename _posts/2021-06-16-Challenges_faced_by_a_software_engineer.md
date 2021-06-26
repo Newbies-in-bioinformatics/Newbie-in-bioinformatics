@@ -46,7 +46,7 @@ You can get started with open-source through these articles.
 
 1. [How to get started with Open Source](https://www.hackerearth.com/getstarted-opensource/)
 
-2. [General Beginner's guide to open-source contribution|Getting Started](https://workat.tech/general/article/open-source-contribution-guide-xmhf1k601vdj)
+2. [General Beginner's guide to open-source contribution-Getting Started](https://workat.tech/general/article/open-source-contribution-guide-xmhf1k601vdj)
 
 3. [An introduction to Open Source - Tutorial (DigitalOcean) ](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source)
 
