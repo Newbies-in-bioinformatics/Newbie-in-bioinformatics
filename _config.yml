@@ -39,13 +39,13 @@ round-avatar: true
 Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "newbiesinboinformatics@gmail.com"
+ email: "newbiesinboinformatics@gmail.com"
   #facebook: deanattali
-  github: https://github.com/Newbies-in-bioinformatics/Newbies-in-bioinformatics
+ github: https://github.com/Newbies-in-bioinformatics/Newbies-in-bioinformatics
   #twitter: https://twitter.com/Newbiesinbioinf
   #patreon: DeanAttali
   #youtube: c/daattali
-  slack: https://join.slack.com/t/newbiesinbioi-suw3310/shared_invite/zt-ra6dx7tx-497jnBj5a54R27YB_oQK8g
+ slack: https://join.slack.com/t/newbiesinbioi-suw3310/shared_invite/zt-ra6dx7tx-497jnBj5a54R27YB_oQK8g
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
