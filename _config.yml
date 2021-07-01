@@ -14,8 +14,7 @@ author: Anshika
 # --- List of links in the navigation bar --- #
 
 navbar-links:
- Contact: "newbiesinbioinformatics@gmail.com"
-
+ Interview : "Interview"
 #   Resources:
 #     - Beautiful Jekyll: "https://beautifuljekyll.com"
 #     - Learn markdown: "https://www.markdowntutorial.com/"
