@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title:Newbies in Bioinformatics
+title: Newbies in Bioinformatics
 
 # Your name to show in the footer
 author: Anshika
@@ -14,11 +14,12 @@ author: Anshika
 # --- List of links in the navigation bar --- #
 
 navbar-links:
- Interview : "Interview"
-#   Resources:
-#     - Beautiful Jekyll: "https://beautifuljekyll.com"
-#     - Learn markdown: "https://www.markdowntutorial.com/"
- 
+  Interview: "_interview"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
+
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
@@ -33,9 +34,9 @@ round-avatar: true
 #title-img: /path/to/image
 
 
- --- Footer social media links --- 
+# --- Footer social media links --- #
 
-Select the social network links that you want to show in the footer.
+# Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
  email: "newbiesinboinformatics@gmail.com"
@@ -65,7 +66,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-#rss-description: This website is a virtual proof that I'm awesome
+rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
 
@@ -88,6 +89,9 @@ feed_show_excerpt: true
 
 # Whether or not to show a list of tags below each post preview in the feed page
 feed_show_tags: true
+
+# Add a search button to the navbar
+post_search: true
 
 # The keywords to associate with your website, for SEO purposes
 #keywords: "my,list,of,keywords"
@@ -132,6 +136,9 @@ footer-link-col: "#404040"
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
 #google_analytics: ""
+
+# Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
+#cloudflare_analytics: ""
 
 # Google Tag Manager ID
 #gtm: ""
@@ -229,4 +236,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
