@@ -14,7 +14,7 @@ author: Anshika
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Interview: "_interview"
+  Interview: "interview"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
