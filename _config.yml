@@ -14,11 +14,12 @@ author: Anshika
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Interview: "interview"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Guest_blogs:
+    - Yo Yehudi : "yo_yehudi"
+  Interviews:
+    - Dr. Sandeep Kumar Dhanda : "sandeep"
+    - Ankit Kumar: "ankit_kumar"
+  # Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
