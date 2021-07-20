@@ -20,7 +20,7 @@ We want this space to be inclusive and respectful for all contributors irrespect
 ## Who can contribute?
 
 1. **Experts** 
-If you are an expert in the field of bioinformatics and computational biology, you can contribute by writhin a guest blog on any of the [suggested topics](Suggested-topics)
+If you are an expert in the field of bioinformatics and computational biology, you can contribute by writing a guest blog on any of the [suggested topics](Suggested-topics)
 You can also write a blog about your work and your journey towards bioinformatics.
 2. **Beginners**
 If you are a beginner, you can also write to us about the challenges and biases that you face while getting into this field.
