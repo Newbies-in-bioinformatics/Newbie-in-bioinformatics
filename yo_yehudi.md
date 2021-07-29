@@ -3,7 +3,7 @@ layout: post
 title: Getting started with Git and GitHub for bioinformatics newbies (or any open scientist!)
 subtitle: By Yo Yehudi
 thumbnail-img: assets/img/YO_YEHUDI.jpg
-permalink: "/yo_yehudi/"
+permalink: /:title
 ---
 
 
