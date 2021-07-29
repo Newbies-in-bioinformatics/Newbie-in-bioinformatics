@@ -2,7 +2,6 @@
 layout: post
 title: Challenges faced by a software engineer
 subtitle: By - Ankit Kumar
-permalink: /:title
 ---
 
 Ankit Kumar is a senior software developer and has completed his bachelor's degree in technology from NIT Durgapur. He has a major interest in bioinformatics and computational biology. He has been kind enough to share some of the major challenges he faced while learning bioinformatics.
