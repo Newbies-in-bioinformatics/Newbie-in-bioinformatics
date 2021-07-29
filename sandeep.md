@@ -3,7 +3,6 @@ layout: post
 title: Interview with Dr. Sandeep Kumar Dhanda
 subtitle: 
 thumbnail-img: assets/img/dr_sandeep.jpg
-permalink: "/sandeep_kumar/"
 ---
 
 Dr. Sandeep Kumar Dhanda is a Translational Bioinformatics Research Scientist at the St Jude Children's Research Hospital, U.S.A.
