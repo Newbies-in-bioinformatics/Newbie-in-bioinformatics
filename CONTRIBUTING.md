@@ -20,8 +20,12 @@ We want this space to be inclusive and respectful for all contributors irrespect
 ## Who can contribute?
 
 1. **Experts** 
-If you are an expert in the field of bioinformatics and computational biology, you can contribute by writing a guest blog on any of the [suggested topics](Suggested-topics)
-You can also write a blog about your work and your journey towards bioinformatics.
+If you are an expert in the field of bioinformatics, computational biology, computer science and open source you can contribute by writing a guest blog on any of the [suggested topics](Suggested-topics)
+
+The blog can be about the basics to get started in the field or about your research work.
+
+You can also write a blog about your journey towards bioinformatics.
+
 2. **Beginners**
 If you are a beginner, you can also write to us about the challenges and biases that you face while getting into this field.
 3. **Intermediate**
@@ -76,6 +80,6 @@ Can't find your idea being discussed anywhere? Open a new issue!
 
 Follow us for regular updates
 
-3. [Slack channel](https://join.slack.com/t/newbiesinbioi-suw3310/shared_invite/zt-ra6dx7tx-497jnBj5a54R27YB_oQK8g)
+3. [Slack channel](https://join.slack.com/t/newbiesinbioi-suw3310/shared_invite/zt-thrm70ec-p9yD5argsFvZiX52s1tZKg)
 
 Join our slack channel to connect to an amazing community of bioinformatics.
