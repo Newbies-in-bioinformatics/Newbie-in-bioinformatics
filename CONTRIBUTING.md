@@ -22,7 +22,7 @@ We want this space to be inclusive and respectful for all contributors irrespect
 1. **Experts** 
 If you are an expert in the field of bioinformatics, computational biology, computer science and open source you can contribute by writing a guest blog on any of the [suggested topics](Suggested-topics)
 
-The blog can be about the basics to get started in the field or about your research work.
+The blog can be about the basics of getting started in the field or about your research work.
 
 You can also write a blog about your journey towards bioinformatics.
 
